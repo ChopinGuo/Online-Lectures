@@ -1,0 +1,12 @@
+\contentsline {chapter}{\nonumberline Long Actuator Delays - Extending the Smith Predictor to Nonlinear}{1}{chapter*.2}%
+\contentsline {section}{\numberline {0.1}Basic Information}{1}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Smith predictor as a form of infinite-dimensional 'backstepping'}{2}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Basic Observations}{2}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {0.2.2}Benchmark Delay System (Scalar)}{2}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {0.2.3}Actuator delaycompensation by Backstepping}{3}{subsection.0.2.3}%
+\contentsline {section}{\numberline {0.3}Robustness consequences}{5}{section.0.3}%
+\contentsline {section}{\numberline {0.4}Observer design with sensor delay}{5}{section.0.4}%
+\contentsline {section}{\numberline {0.5}Predictor feedback for nonlinear systems}{5}{section.0.5}%
+\contentsline {section}{\numberline {0.6}Delay-adaptive control}{5}{section.0.6}%
+\contentsline {section}{\numberline {0.7}Bonus 1: Other forms of infinite-dimensional actuator dynamics}{5}{section.0.7}%
+\contentsline {section}{\numberline {0.8}Bonus 2: Robotic swarm choreography via PDE boundary control techniques}{5}{section.0.8}%
